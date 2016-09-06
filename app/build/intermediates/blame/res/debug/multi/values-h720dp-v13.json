@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\SociaBuzz\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "G:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "G:\\SociaBuzz\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "G:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-h720dp\\values-h720dp.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 294,
                         "endColumn": 66,
-                        "endOffset": 117
+                        "endOffset": 356
                     }
                 }
             }

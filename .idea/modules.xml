@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SociaBuzz.iml" filepath="$PROJECT_DIR$/SociaBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SociaBuzzAndroid.iml" filepath="$PROJECT_DIR$/SociaBuzzAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
