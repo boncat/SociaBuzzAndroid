@@ -1,0 +1,12 @@
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$styleable$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$integer$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$layout$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\Android\LoginActivity$3$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$style$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$id$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$mipmap$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$id$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\R$string$override.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,G:\SociaBuzzAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\sociabuzz\Android\RegisterActivity$override.class
