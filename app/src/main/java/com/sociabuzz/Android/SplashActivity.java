@@ -1,5 +1,6 @@
 package com.sociabuzz.Android;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -16,6 +17,27 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+        Thread background = new Thread() {
+            public void run() {
+                try {
+                    sleep(1 * 1000);
+
+                    Intent i = new Intent(getBaseContext(), LoginActivity.class);
+                    startActivity(i);
+
+                    finish();
+                } catch (Exception e) {
+
+                }
+            }
+        };
+        background.start();
     }
 
+    @Override
+    protected void onDestroy() {
+
+        super.onDestroy();
+
+    }
 }
