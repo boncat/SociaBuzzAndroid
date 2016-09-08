@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="394875219824296"
+    token="-673131766573542742" >
+
+    <task
+        name="javac"
+        duration="1572" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="400" />
+    <task
+        name="verifier"
+        duration="79" />
+
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_304e10342ef1252472652e6e2fa27f0fa5df491a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_854081fe4d4ef5a385a98c9381163c98388a4f7a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_0de1d5244d4d86d61301f12959a7ff975034b12a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_2bd2b7a56559e7eeb328e108e10afd1d65cb462d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_5ec1f0e2c854f27a402891767fd35a83ed0cc8af\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_108972656d9a8014db26aa3002d867b6979a808f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\SociaBuzzAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+
+</instant-run>
