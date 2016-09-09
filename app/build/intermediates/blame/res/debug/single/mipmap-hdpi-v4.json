@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "G:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "G:\\SociaBuzzAndroid\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
