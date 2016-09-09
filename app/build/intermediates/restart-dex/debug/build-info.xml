@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="27047340606593"
+    token="-2781892193293224020" >
+
+    <task
+        name="javac"
+        duration="2130" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="397" />
+    <task
+        name="verifier"
+        duration="75" />
+
+    <artifact
+        location="D:\SociaBuzzAndroid\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="27047340606593" >
+        <artifact
+            location="D:\SociaBuzzAndroid\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -44,7 +44,8 @@
         </activity>
         <activity
             android:name=".Android.LoginActivity"
-            android:label="@string/title_activity_login">
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="stateHidden">
 
             <!--
             <intent-filter>
@@ -54,7 +55,12 @@
             </intent-filter>
             -->
         </activity>
-        <activity android:name=".Android.RegisterActivity"></activity>
+        <activity
+            android:name=".Android.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".BotomNavigation.FourButtonsActivity" />
+        <activity android:name=".BotomNavigation.ThreeButtonsActivity"></activity>
     </application>
 
 </manifest>

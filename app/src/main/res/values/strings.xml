@@ -2,6 +2,7 @@
     <string name="app_name">SociaBuzz</string>
     <string name="title_activity_splash">SplashActivity</string>
     <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_register">Register</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -30,5 +31,5 @@
     <string name="regsiter_hint_confirm_password">Ulangi Password*</string>
     <string name="register_button_submit">Daftar</string>
     <string name="register_check_box">Saya setuju dengan Syarat Ketentuan yang berlaku.</string>
-    
+
 </resources>

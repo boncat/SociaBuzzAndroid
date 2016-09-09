@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "outputFile": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,37 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-port\\values-port.xml",
+                    "file": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-port\\values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 342
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "G:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "G:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 55,
-                        "endOffset": 342
+                        "endOffset": 106
                     }
                 }
             }

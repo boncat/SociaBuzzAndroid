@@ -50,7 +50,8 @@
         </activity>
         <activity
             android:name="com.sociabuzz.Android.LoginActivity"
-            android:label="@string/title_activity_login" >
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="stateHidden" >
 
             <!--
             <intent-filter>
@@ -60,7 +61,12 @@
             </intent-filter>
             -->
         </activity>
-        <activity android:name="com.sociabuzz.Android.RegisterActivity" />
+        <activity
+            android:name="com.sociabuzz.Android.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name="com.sociabuzz.BotomNavigation.FourButtonsActivity" />
+        <activity android:name="com.sociabuzz.BotomNavigation.ThreeButtonsActivity" />
     </application>
 
 </manifest>
