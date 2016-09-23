@@ -1,246 +1,262 @@
 [
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_four_buttons.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_four_buttons.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_forgot_password.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\dialog_forgot_password.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_forgot_password.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\dialog_forgot_password.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_request.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_request.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_container.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_shifting.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_shifting.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_fixed.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_fixed.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_three_buttons.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_three_buttons.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_container.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_shifting.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_shifting.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_three_buttons.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_three_buttons.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_four_buttons.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_four_buttons.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_offer.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\card_offer.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_media.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_filter.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]

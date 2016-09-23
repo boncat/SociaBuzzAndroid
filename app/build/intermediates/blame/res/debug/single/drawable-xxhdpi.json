@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_update_white_24dp.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_update_white_24dp.png"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_local_dining_white_24dp.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_local_dining_white_24dp.png"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_location_on_white_24dp.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location_on_white_24dp.png"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite_white_24dp.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorite_white_24dp.png"
+    }
+]

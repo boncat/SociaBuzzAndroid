@@ -1,182 +1,234 @@
 [
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ics.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ics.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_youtube.jpg",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_youtube.jpg"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cupcake.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\cupcake.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jellybean.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\jellybean.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_logo.png"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kitkat.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\kitkat.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\froyo.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\froyo.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_green_button.png",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_green_button.png"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_logo.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bloger.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_bloger.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lollipop.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\lollipop.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\honeycomb.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\honeycomb.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eclair.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\eclair.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_ig.jpg",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\ic_ig.jpg"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gingerbread.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\gingerbread.png"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marsh.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\marsh.png"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\donut.png",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\drawable\\donut.png"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.2.1\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     }
 ]

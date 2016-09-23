@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/filter_offer"
+        android:icon="@drawable/ic_ig"
+        android:orderInCategory="100"
+        android:title="Add"
+        app:showAsAction="ifRoom|withText">
+
+    </item>
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_ig"
+        android:title="Compose"
+        app:showAsAction="ifRoom">
+
+    </item>
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_youtube"
+        android:title="Profile"
+        app:showAsAction="ifRoom|withText">
+        
+    </item>
+</menu>

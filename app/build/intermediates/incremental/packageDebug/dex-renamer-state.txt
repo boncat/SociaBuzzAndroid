@@ -1,0 +1,7 @@
+#Thu Sep 22 15:46:44 ICT 2016
+base.0=F\:\\SociaBuzzAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1166f49bae5bb7e540063059f309a42078fb2118
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\SociaBuzzAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_422f38c4e0ee65220d5db1666e156ee4275c2ff9\\classes.dex
+base.1=F\:\\SociaBuzzAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_422f38c4e0ee65220d5db1666e156ee4275c2ff9
+file.0=F\:\\SociaBuzzAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1166f49bae5bb7e540063059f309a42078fb2118\\classes.dex

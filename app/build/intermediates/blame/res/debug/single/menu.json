@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\three_buttons_menu.xml",
-        "source": "D:\\SociaBuzzAndroid\\app\\src\\main\\res\\menu\\three_buttons_menu.xml"
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\SociaBuzzAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\three_buttons_menu.xml",
+        "source": "F:\\SociaBuzzAndroid\\app\\src\\main\\res\\menu\\three_buttons_menu.xml"
     }
 ]

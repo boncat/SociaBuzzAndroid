@@ -5,4 +5,7 @@
     <color name="colorPrimary">#E91E63</color>
     <color name="colorPrimaryDark">#C2185B</color>
     <color name="colorAccent">#4CAF50</color>
+    <color name="color_white">#fefefe</color>
+    <color name="bluePrimary">#6aeae9 </color>
+    <color name="blueSecondary">#e2f7fd </color>
 </resources>
